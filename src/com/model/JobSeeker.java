@@ -24,7 +24,7 @@ public class JobSeeker {
 	
 	public void diplay()
 	{
-		System.out.println("*****Displaying info******");
+		System.out.println("*****Displaying Job Seeker info******");
 		System.out.println("Name of Job Seeker: "+this.getName()+" and Id: "+this.getJs_id());
 	}
 }
